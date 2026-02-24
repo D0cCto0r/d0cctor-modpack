@@ -7,8 +7,8 @@
       "loader": "forge",
       "loader_version": "47.2.0",
       "modpack_version": "1.0",
-      "modpack_url": "https://github.com/D0cCto0r/d0cctor-modpack/raw/refs/heads/main/minecraft.zip",
-      "image_url": "https://github.com/D0cCto0r/d0cctor-modpack/blob/main/minecraft.png?raw=true"
+      "modpack_url": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/minecraft.zip",
+      "image_url": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/minecraft.png"
     }
   ]
 }
