@@ -1,16 +1,17 @@
 {
   "servers": [
     {
-      "id": "zombies",
+      "id": "Minecraft_s1",
       "name": "Minecraft",
+      "profile_name": "Minecraft Test",
       "minecraft_version": "1.20.1",
       "loader": "forge",
       "loader_version": "47.2.0",
       "modpack_version": "1.0",
+      "recommended_ram": "6 GB",
+      "replace_profile": true,
       "modpack_url": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/minecraft.zip",
       "image_url": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/minecraft.png"
     }
   ]
 }
-
-
