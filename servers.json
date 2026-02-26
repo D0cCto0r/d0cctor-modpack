@@ -11,6 +11,13 @@
       "recommended_ram": "6 GB",
       "modpack_url": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/minecraft.zip",
       "image_url": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/minecraft.png"
+    },
+    {
+      "id": "ark",
+      "name": "Ark Survival",
+      "type": "steam",
+      "steam_appid": "346110",
+      "image_url": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/ark.png"
     }
   ]
 }
