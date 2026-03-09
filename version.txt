@@ -1,2 +1,2 @@
-0.1-2026.6
+0.1-2026.3
 https://github.com/D0cCto0r/d0cctor-modpack/releases/download/test-updates/launcher.exe
