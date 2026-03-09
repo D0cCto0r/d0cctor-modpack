@@ -4,7 +4,7 @@
       "id": "ShibuyaZ",
       "name": "ShibuyaZ",
       "profile_name": "ShibuyaZ",
-      "description": "Sobreviví oleadas de zombies cada vez más difíciles, conseguí armas, mejorá tus perks y resistí junto a otros jugadores.                                                                                           ",
+      "description": "Sobreviví oleadas de zombies cada vez más difíciles, conseguí armas, mejorá tus perks y resistí junto a otros jugadores.",
       "minecraft_version": "1.20.1",
       "loader": "forge",
       "loader_version": "47.4.10",
@@ -17,7 +17,7 @@
       "id": "ShibuyaSMP",
       "name": "ShibuyaSMP",
       "profile_name": "ShibuyaSMP",
-      "description": "Un survival multijugador clásico con economía, protección de terrenos y comandos útiles. Construí, comerciá y progresá junto a la comunidad.                                                                        ", 
+      "description": "Un survival multijugador clásico con economía, protección de terrenos y comandos útiles. Construí, comerciá y progresá junto a la comunidad.", 
       "minecraft_version": "1.21.10",
       "loader": "vanilla",
       "recommended_ram": "6 GB",
@@ -26,7 +26,7 @@
     {
       "id": "ARK Proximamente",
       "name": "Ark Survival",
-      "description": "Próximamente: Avanzá por la historia principal, domá criaturas únicas del desierto y sobreviví junto a otros jugadores en un mundo hostil lleno de desafíos.                                                       ",
+      "description": "Próximamente: Avanzá por la historia principal, domá criaturas únicas del desierto y sobreviví junto a otros jugadores en un mundo hostil lleno de desafíos.",
       "type": "steam",
       "steam_appid": "346110",
       "image_url": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/ark.png"
