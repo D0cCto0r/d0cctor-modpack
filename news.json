@@ -1,0 +1,14 @@
+{
+  "news": [
+    {
+      "title": "Lanzamiento de ShibuyaZ",
+      "description": "El servidor Zombies ya está disponible. Sobreviví oleadas de muertos y mejorá tus perks.",
+      "image": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/news1.png"
+    },
+    {
+      "title": "ShibuyaSMP abierto",
+      "description": "Nuevo survival vanilla con plugins, economía y protección de terrenos.",
+      "image": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/news2.png"
+    }
+  ]
+}
