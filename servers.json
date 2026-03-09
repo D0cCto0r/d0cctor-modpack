@@ -1,15 +1,24 @@
 {
   "servers": [
     {
-      "id": "zombies",
-      "name": "Minecraft Zombies",
-      "profile_name": "D0cCtor Zombies",
+      "id": "ShibuyaZ",
+      "name": "ShibuyaZ",
+      "profile_name": "ShibuyaZ",
       "minecraft_version": "1.20.1",
       "loader": "forge",
-      "loader_version": "47.2.0",
-      "modpack_version": "2.0",
+      "loader_version": "47.4.10",
+      "modpack_version": "1.0",
       "recommended_ram": "6 GB",
       "modpack_url": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/minecraft.zip",
+      "image_url": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/minecraft.png"
+    },
+    {
+      "id": "ShibuyaSMP",
+      "name": "ShibuyaSMP",
+      "profile_name": "ShibuyaSMP",
+      "minecraft_version": "1.21.10",
+      "loader": "vanilla",
+      "recommended_ram": "6 GB",
       "image_url": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/minecraft.png"
     },
     {
