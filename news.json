@@ -1,14 +1,14 @@
 {
   "news": [
     {
-      "title": "Lanzamiento de ShibuyaZ",
-      "description": "El servidor Zombies ya está disponible. Sobreviví oleadas de muertos y mejorá tus perks.",
-      "image": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/news1.png"
+      "title": "Lanzamiento del Launcher Oficial",
+      "description": "Instalá servidores, recibí noticias y mantené tus juegos actualizados desde una sola aplicación diseñada para la comunidad.",
+      "image": "https://github.com/D0cCto0r/d0cctor-modpack/blob/main/news_bg.png?raw=true"
     },
     {
-      "title": "ShibuyaSMP abierto",
-      "description": "Nuevo survival vanilla con plugins, economía y protección de terrenos.",
-      "image": "https://raw.githubusercontent.com/D0cCto0r/d0cctor-modpack/main/news2.png"
+      "title": "ARK: Scorched Earth Próximamente",
+      "description": "Muy pronto abriremos nuestro nuevo servidor de ARK en el mapa Scorched Earth. ",
+      "image": "https://github.com/D0cCto0r/d0cctor-modpack/blob/main/news_bg.png?raw=true"
     }
   ]
 }
