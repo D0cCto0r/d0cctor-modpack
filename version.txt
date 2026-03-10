@@ -1,2 +1,2 @@
 0.1-2026.3
-https://github.com/D0cCto0r/d0cctor-modpack/releases/download/v0.1-2026.3/launcher.exe
+https://github.com/D0cCto0r/d0cctor-modpack/releases/download/v0.1-2026.3/D0cCtor.Hub.Launcher.exe
